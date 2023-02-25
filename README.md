@@ -4,9 +4,8 @@
  <!--<img alt="Header image" src="YOUR-DEFAULT-IMAGE">-->
 </picture>
 
-- 👋 Hi, I’m @Moses-Onche.
-- 👀 I’m interested in Front End engineering.
-- 🌱 I’m currently a student of ALX Africa on a FullStack development course.
+- 👋 Hi, I’m Moses Onche.
+- 🌱 I’m currently a student of ALX Africa on the Software Engineering/FullStack development track.
 - 🌱 My goal is to get good at building websites and web apps to satisfy business and customer needs.
 - 📫 How to reach me:
 - 💌 Email: onchemoses38@gmail.com
