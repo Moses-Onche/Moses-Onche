@@ -6,10 +6,10 @@
 
 - 👋 Hi, I’m Moses Onche.
 - 🌱 I’m currently a student of ALX Africa on the Software Engineering/FullStack development track.
-- 🌱 My goal is to get good at building websites and web apps to satisfy business and customer needs.
+- 🌱 My current goal is to get good at building web apps to satisfy business and customer needs.
 - 📫 How to reach me:
 - 💌 Email: onchemoses38@gmail.com
-- 🟦 Twitter: @meo_joule
+- 🟦 Twitter DM: @meo_joule
 
 <!---
 Moses-Onche/Moses-Onche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
