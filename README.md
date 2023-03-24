@@ -4,10 +4,11 @@
  <!--<img alt="Header image" src="YOUR-DEFAULT-IMAGE">-->
 </picture>
 
-- 👋 Hi, I’m Moses Onche.
-- 🌱 I’m currently a student of ALX Africa on the Software Engineering/FullStack development track.
-- 🌱 My current goal is to get good at building web apps to satisfy business and customer needs.
-- 📫 How to reach me:
+Hi, I’m Moses Onche. Friends call me Meo, like Neo from the matrix but with an 'M'. As a mechanical engineer I designed and built self service kiosks. Now I build software.
+
+Currently enrolled in Holberton School through ALX Africa for FullStack Development.
+
+How to reach me:
 - 💌 Email: onchemoses38@gmail.com
 - 🟦 Twitter DM: @meo_joule
 
