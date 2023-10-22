@@ -10,7 +10,7 @@ Currently enrolled in Holberton School through ALX Africa for FullStack Developm
 
 How to reach me:
 - 💌 Email: onchemoses38@gmail.com
-- 🟦 Twitter DM: (@meo_joule)[https://twitter.com/meo_joule]
+- 🟦 Twitter DM: [@meo_joule](https://twitter.com/meo_joule)
 
 <!---
 Moses-Onche/Moses-Onche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
